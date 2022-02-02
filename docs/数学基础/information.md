@@ -11,4 +11,6 @@ MIT面向大一新生的信息论入门课程，Penfield教授专门为这门课
 ## 课程资源
 - [课程网站](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/index.htm)
 - [课程教材](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/syllabus/MIT6_050JS08_textbook.pdf)
+- [在bilibili的課程影片備份1](https://www.bilibili.com/video/BV19b41137mN)
+- [在bilibili的課程影片備份2](https://www.bilibili.com/video/BV1m4411f7ji)
 - 课程作业：详见课程网站，包含书面作业与matlab编程作业。
